@@ -1,6 +1,6 @@
 # News api app
 ![Screenshot 2024-09-03 091958](https://github.com/user-attachments/assets/6d33fdfa-b2e5-41e1-a8fe-c18f52f23665)
-#Top-headlines
+<h2>Top-headlines</h2>
 ![Screenshot 2024-09-03 092033](https://github.com/user-attachments/assets/162e9d21-af64-4a16-823c-eb1b39264bc2)
 #Countries
 ![Screenshot 2024-09-03 092247](https://github.com/user-attachments/assets/b8022439-6a29-4686-82ef-7b04915c5a87)
